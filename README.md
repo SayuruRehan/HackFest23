@@ -8,6 +8,6 @@ Happy Hacktober! :octocat: This is a beginner friendly repository made specifica
 
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing! This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
 
-<h3>__Star this repository__ if you had fun! ✨</h3> 
+<h3>Star this repository if you had fun! ✨</h3> 
 
 __Happy Coding!__ 👻
