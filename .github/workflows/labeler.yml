@@ -23,4 +23,4 @@ jobs:
                             repo: context.repo.repo,
                             issue_number: context.payload.pull_request.number,
                             labels: ['hacktoberfest-accepted']
-                        })
+                        });
