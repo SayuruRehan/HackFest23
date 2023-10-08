@@ -1,6 +1,6 @@
 # 🎃 HacktoberFest Starter Project 🎃
 
-<h3>PLEASE READ THE 'CONTRIBUTING.MD' FILE BEFORE CONTRIBUTING TO THIS PROJECT 🌱</h3><br> <be>
+<h3>PLEASE READ 'CONTRIBUTING.MD' BEFORE CONTRIBUTING TO THIS PROJECT 🌱</h3><br> <be>
 
 Welcome to Hacktoberfest 2023 Public Repository. 👨🏻‍💻 <br>
 
