@@ -1,4 +1,4 @@
-public class InsertionSort {
+public class InsertionSort1 {
     public static void insertionSort(int[] nums) {
         int n = nums.length;
         
